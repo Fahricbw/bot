@@ -2,7 +2,7 @@
   "name": "KurrXd",
   "version": "0.0.1",
   "description": "KurrXd",
-  "main": "node admin",
+  "main": "node index",
   "directories": {
     "lib": "lib"
   },
